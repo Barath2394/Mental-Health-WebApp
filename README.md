@@ -1,174 +1,254 @@
-WellBeing Journey ☁️ - Mental Health Platform UI
-A comforting, accessible, and Filipino-centered UI design for mental health service providers and users seeking support.
+WellBeing Journey ☁️ – Mental Health Platform UI
+
+A comforting, accessible, and Filipino-centered UI design made for mental health service providers and users seeking support.
+Soft, gentle, and designed to feel like a safe place. 💙
 
 🌟 Design Philosophy
-Mello is built around the principle of emotional safety first. Every design decision prioritizes creating a space where users feel welcome, unjudged, and supported.
+
+WellBeing Journey is built around one core principle:
+👉 Emotional safety first.
+Every design choice ensures users feel welcomed, unjudged, and supported.
 
 Core Design Principles
-Comforting and Safe - Soft colors, friendly visuals, and emotional safety across all interactions
-Minimalist and Clean - Clarity over clutter, generous whitespace, and simple typography
-Mobile-First & Intuitive - Optimized for one-handed use with large tap targets
-Rounded and Soft UI - Generous corner radii (16-24px) with subtle shadows and smooth animations
-Subtle Animation - Gentle fade-ins and slide transitions that feel alive, not flashy
-Anonymous & Respectful UX - Privacy-first approach with minimal personal data collection
-Filipino-Centered - Native Filipino words and cultural touches that feel meaningful
-Accessible & Inclusive - WCAG compliant with support for screen readers and keyboard navigation
-Gentle Monetization - Coffee credits positioned as appreciation, not paywalls
-Emotionally Responsive - Mood-aware interactions with easy exit options
+
+🌿 Comforting & Safe – Soft colors, friendly visuals, and emotional warmth
+
+✨ Minimalist & Clean – Clarity over clutter, breathable whitespace
+
+📱 Mobile-First & Intuitive – One-hand use with large tap targets
+
+🟦 Rounded, Soft UI – Corner radius 16–24px with soft shadows
+
+🎞️ Subtle Animations – Gentle, calm fade-ins and slides
+
+🛡️ Anonymous & Respectful UX – Privacy-first approach
+
+🇵🇭 Filipino-Centered – Cultural touches and native terms
+
+♿ Accessible & Inclusive – WCAG compliant + screen reader support
+
+💛 Gentle Monetization – “Coffee credits” for appreciation, not paywalls
+
+😊 Emotionally Responsive – Mood-aware interactions, easy exit options
+
 🎨 Design System
 Color Palette
 Light Theme
-Primary: #667eea (Soft purple-blue)
-Secondary: #f093fb (Gentle pink)
-Background: #ffffff (Pure white)
-Surface: #f8fafc (Very light gray)
-Text Primary: #1e293b (Dark slate)
-Text Secondary: #64748b (Medium slate)
+
+Primary: #667eea
+
+Secondary: #f093fb
+
+Background: #ffffff
+
+Surface: #f8fafc
+
+Text Primary: #1e293b
+
+Text Secondary: #64748b
+
 Dark Theme
-Background: #0f172a (Deep navy)
-Surface: #1e293b (Dark slate)
-Text Primary: #f1f5f9 (Light gray)
-Text Secondary: #cbd5e1 (Medium gray)
+
+Background: #0f172a
+
+Surface: #1e293b
+
+Text Primary: #f1f5f9
+
+Text Secondary: #cbd5e1
+
 Typography
-Font Family: Inter (Google Fonts)
-Weights: 300, 400, 500, 600, 700
-Base Size: 16px
-Line Height: 1.6
-Scale: Modular scale with consistent ratios
+
+Family: Inter (Google Fonts)
+
+Weights: 300–700
+
+Base size: 16px
+
+Line height: 1.6
+
 Spacing System
-XS: 0.5rem (8px)
-SM: 1rem (16px)
-MD: 1.5rem (24px)
-LG: 2rem (32px)
-XL: 3rem (48px)
-2XL: 4rem (64px)
+
+8px, 16px, 24px, 32px, 48px, 64px
+
 Border Radius
-SM: 8px
-MD: 16px
-LG: 24px
-XL: 32px
+
+8px, 16px, 24px, 32px
+
 🚀 Features
 Core Services
-📝 Himpil - Anonymous venting and community support
-🧑‍⚕️ Kalinga - Professional mental health services
-☕ Tara Kape - 1-on-1 conversations with listeners
+
+📝 Himpil – Anonymous venting space
+
+🧑‍⚕️ Kalinga – Professional mental health services
+
+☕ Tara Kape – 1-on-1 conversations with listeners
+
 Interactive Elements
-Theme Toggle - Light/dark mode with smooth transitions
-Mobile Menu - Responsive navigation with accessibility features
-Smooth Scrolling - Gentle page navigation
-Coffee Credits Modal - Appreciation system for listeners
-Scroll Animations - Subtle reveal effects for content
+
+🌗 Theme toggle (light/dark)
+
+📱 Mobile-friendly menu
+
+🚶 Smooth scrolling
+
+🎁 Coffee credits modal
+
+✨ Scroll animations
+
 Accessibility Features
-Screen Reader Support - ARIA labels and live regions
-Keyboard Navigation - Full keyboard accessibility
-Focus Management - Clear focus indicators
-Skip Links - Quick navigation for assistive technology
-Reduced Motion - Respects user motion preferences
-High Contrast - Support for high contrast mode
+
+ARIA labels
+
+Full keyboard navigation
+
+Focus indicators
+
+Skip links
+
+Respects reduced motion
+
+High contrast mode
+
 📱 Responsive Design
 Breakpoints
+
 Mobile: < 768px
-Tablet: 768px - 1024px
+
+Tablet: 768px – 1024px
+
 Desktop: > 1024px
-Mobile-First Approach
-Large tap targets (minimum 48px)
-Card-based layouts
-Slide transitions
-One-handed interaction optimization
+
+Mobile-first: card layouts, 48px buttons, slide transitions.
+
 🛠️ Technical Implementation
 File Structure
 UI/
-├── index.html          # Main HTML structure
-├── styles.css          # Complete CSS design system
-├── script.js           # Interactive functionality
-└── README.md           # Documentation
+├── index.html
+├── styles.css
+├── script.js
+└── README.md
+
 Dependencies
-Font Awesome 6.4.0 - Icons
-Inter Font - Typography
-Vanilla JavaScript - No framework dependencies
+
+Font Awesome 6.4.0
+
+Inter Font
+
+Vanilla JavaScript
+
 Browser Support
-Chrome 90+
-Firefox 88+
-Safari 14+
-Edge 90+
+
+Chrome 90+, Firefox 88+, Safari 14+, Edge 90+
+
 🎯 User Experience
 Emotional Safety Features
-Gentle Color Transitions - No jarring color changes
-Smooth Animations - 0.3s ease transitions
-Easy Exit Options - Escape key and click-outside to close
-Privacy Indicators - Clear anonymity messaging
-Non-Triggering Content - Careful language and imagery
+
+Gentle color transitions
+
+Smooth 0.3s animations
+
+Escape-to-close support
+
+Anonymous-by-default design
+
+Non-triggering wording
+
 Filipino Cultural Integration
-Native Language - Himpil, Kalinga, Tara Kape
-Cultural Metaphors - Coffee as connection and care
-Local Idioms - "Salamat" in thank you messages
-Respectful Tone - Honorific and caring language
+
+Names like Himpil, Kalinga, Tara Kape
+
+Coffee as a symbol of connection
+
+“Salamat” in gratitude messages
+
+Respectful, warm tone
+
 🔧 Customization
 Theme Variables
-All colors, spacing, and typography are defined as CSS custom properties for easy customization:
-
 :root {
-    --primary-color: #667eea;
-    --spacing-md: 1.5rem;
-    --font-family: 'Inter', sans-serif;
+  --primary-color: #667eea;
+  --spacing-md: 1.5rem;
+  --font-family: 'Inter', sans-serif;
 }
+
 Adding New Services
-Add HTML structure in the services grid
-Include appropriate icons and Filipino terminology
-Maintain consistent card styling
-Add accessibility attributes
+
+Add card structure
+
+Add Filipino naming
+
+Maintain consistent styling
+
+Add ARIA tags
+
 Extending Animations
-Animations are built with CSS transitions and Intersection Observer API for performance:
+
+Uses Intersection Observer:
 
 const observer = new IntersectionObserver((entries) => {
-    entries.forEach(entry => {
-        if (entry.isIntersecting) {
-            entry.target.classList.add('animate-in');
-        }
-    });
+  entries.forEach(entry => {
+    if (entry.isIntersecting) {
+      entry.target.classList.add('animate-in');
+    }
+  });
 });
+
 🚀 Getting Started
-Clone or download the files
-Open index.html in a modern web browser
-Test responsiveness by resizing the browser window
-Try accessibility features with keyboard navigation and screen readers
-Development
-No build process required - Pure HTML, CSS, and JavaScript
-Live reload - Simply refresh the browser to see changes
-Cross-platform - Works on Windows, macOS, and Linux
+
+Clone or download
+
+Open index.html
+
+Resize to test responsiveness
+
+Try keyboard + screen reader features
+
 📊 Performance
-Optimizations
-CSS Variables - Efficient theme switching
-Intersection Observer - Performance-optimized animations
-Minimal JavaScript - Lightweight interactions
-Optimized Images - WebP format with fallbacks
-Font Loading - Google Fonts with display=swap
-Metrics
-First Contentful Paint: < 1.5s
-Largest Contentful Paint: < 2.5s
-Cumulative Layout Shift: < 0.1
-First Input Delay: < 100ms
+
+FCP: < 1.5s
+
+LCP: < 2.5s
+
+CLS: < 0.1
+
+FID: < 100ms
+
 🤝 Contributing
 Design Guidelines
-Maintain emotional safety - Test with users in distress
-Follow accessibility standards - WCAG 2.1 AA compliance
-Use Filipino cultural context - Research local mental health needs
-Keep it simple - Less is more for mental health interfaces
-Code Standards
-Semantic HTML - Proper heading hierarchy and landmarks
-CSS Custom Properties - Use design system variables
-JavaScript Modules - Organized, documented functions
-Accessibility First - ARIA labels and keyboard support
-📞 Support
-For questions about the design system or implementation:
 
-Design Decisions - Review the design principles above
-Technical Issues - Check browser compatibility
-Accessibility - Test with screen readers and keyboard navigation
-Cultural Context - Consult with Filipino mental health professionals
+Maintain emotional safety
+
+WCAG AA compliance
+
+Use Filipino cultural meaning
+
+Keep UI minimalist
+
+Code Guidelines
+
+Semantic HTML
+
+CSS variables
+
+Document JS functions
+
+Accessibility first
+
+📞 Support
+
+Design: Check philosophy section
+
+Tech: Browser compatibility
+
+Accessibility: Screen reader testing
+
+Cultural help: Consult Filipino MH experts
+
 📄 License
-This UI design is created for mental health support and community care. Please use responsibly and with appropriate mental health expertise.
+
+Designed for community mental health support.
+Use respectfully and responsibly.
 
 Made with ❤️ for the Filipino community
-
-Mello - Your quiet space to vent, talk, and heal
+WellBeing Journey – Your quiet space to vent, talk, and heal. ☁️
